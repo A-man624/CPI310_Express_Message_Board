@@ -1,0 +1,19 @@
+* {
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.6;
+    background: blanchedalmond;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+    color: darkblue;
+}
+
+button {
+    color: black;
+}
+
+input {
+    color: black;
+}
